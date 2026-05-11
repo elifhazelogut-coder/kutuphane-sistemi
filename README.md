@@ -1,5 +1,5 @@
 # kutuphane-sistemi
-# 📚 Kastamonu Üniversitesi Kütüphane Yönetim Sistemi
+# Kastamonu Üniversitesi Kütüphane Yönetim Sistemi
 
 # Proje Hakkında
 
