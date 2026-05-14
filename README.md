@@ -72,3 +72,6 @@ project/
 ├── models.py
 ├── kutuphane.db
 └── README.md
+
+<img width="1920" height="1080" alt="Ekran görüntüsü 2026-05-10 213155" src="https://github.com/user-attachments/assets/dc6fb44b-a6d6-43d8-b0aa-32be9fa439a9" />
+
